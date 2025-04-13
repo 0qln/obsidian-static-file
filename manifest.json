@@ -1,0 +1,11 @@
+{
+	"id": "static-file",
+	"name": "Static File",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Place a static file in your vault.",
+	"author": "0qln",
+	"authorUrl": "https://github.com/0qln",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
